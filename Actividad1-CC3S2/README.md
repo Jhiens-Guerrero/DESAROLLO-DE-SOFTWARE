@@ -49,7 +49,7 @@ Imagen comparativa:
 
 ###  4.2 Ciclo tradicional de dos pasos y silos (limitaciones y anti-patrones)
 
-![Silos organizacionales](imagenes/silos-equipos.png)
+
 
 El **ciclo tradicional de dos pasos**, también conocido como **“Construcción → Operación”**, consiste en un flujo lineal donde el software se desarrolla primero y luego se entrega a operaciones para su despliegue y mantenimiento.  
 Este modelo, al trabajar sin integración continua, tiene algunas limitaciones.  
