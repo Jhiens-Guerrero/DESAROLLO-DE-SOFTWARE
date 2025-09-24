@@ -1,0 +1,8 @@
+$ git branch -vv
+  bugfix/rollback-feature     a2e1ab5 Corregir error en la funcionalidad de rollback
+  develop                     264b57f Agrega main.py
+  featura/login               264b57f Agrega main.py
+  feature/another-new-feature 264b57f Agrega main.py
+  feature/login               264b57f Agrega main.py
+* master                      867b062 Resuelve el conflicto de fusión entre la versión main y feature/advanced-feature
+
