@@ -1,5 +1,5 @@
-print('Hello World-actualiado en main')
-print('Hello World')
 def greet():
-    print('Hello como una función avanzada')
+    print("Hola desde el remoto")
+    print("Error corregido en la función")
+
 
