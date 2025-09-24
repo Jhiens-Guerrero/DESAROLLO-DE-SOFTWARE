@@ -1,0 +1,25 @@
+$ git commit -m "Commit inicial con README.md"
+[master (root-commit) 959699c] Commit inicial con README.md
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+
+
+$ git commit -m "Configura la documentación base del repositorio"
+[master 66bbb45] Configura la documentación base del repositorio
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+ create mode 100644 CONTRIBUTING.md
+
+
+$ git commit -m "Agrega main.py"
+[master 264b57f] Agrega main.py
+ 1 file changed, 1 insertion(+)
+ create mode 100644 main.py
+
+$ git commit -m "Agrega la funcion greet como función avanzada"
+[feature/advanced-feature 71fcaa3] Agrega la funcion greet como función avanzada
+ 1 file changed, 4 insertions(+)
+
+$ git commit -m "Actualizar el mensaje main.py en la rama main"
+[master 4cc9a1c] Actualizar el mensaje main.py en la rama main
+ 1 file changed, 1 insertion(+), 1 deletion(-)

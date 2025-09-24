@@ -1,0 +1,4 @@
+$ git merge feature/advanced-feature
+Auto-merging main.py
+CONFLICT (content): Merge conflict in main.py
+Automatic merge failed; fix conflicts and then commit the result.
