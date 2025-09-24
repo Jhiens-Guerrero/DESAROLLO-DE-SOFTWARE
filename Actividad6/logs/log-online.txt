@@ -1,4 +1,0 @@
-$ git log --oneline
-264b57f (HEAD -> feature/login, master, featura/login, develop) Agrega main.py
-66bbb45 Configura la documentación base del repositorio
-959699c Commit inicial con README.md
