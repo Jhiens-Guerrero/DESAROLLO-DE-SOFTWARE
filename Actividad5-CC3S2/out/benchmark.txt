@@ -1,0 +1,22 @@
+Benchmark: 2025-09-25 12:03:51 / Commit: 65d0430
+make[1]: Entering directory '/mnt/c/Users/Jhiens/Desktop/DESAROLLO-DE-SOFTWARE/Actividad5-CC3S2'
+shellcheck scripts/run_tests.sh
+shfmt -d scripts/run_tests.sh
+--- scripts/run_tests.sh.orig
++++ scripts/run_tests.sh
+@@ -70,9 +70,8 @@
+ check_deps
+ run_tests "${SRC_DIR}/hello.py"
+ 
+-
+ # Al final de run_tests (sin cambiar nada más)
+ if [[ ! -f "$tmp" ]]; then
+-    echo "Error: archivo temporal perdido"
+-    exit 3
++	echo "Error: archivo temporal perdido"
++	exit 3
+ fi
+make[1]: *** [Makefile:40: lint] Error 1
+make[1]: Leaving directory '/mnt/c/Users/Jhiens/Desktop/DESAROLLO-DE-SOFTWARE/Actividad5-CC3S2'
+Command exited with non-zero status 2
+Tiempo: 0:00.23
